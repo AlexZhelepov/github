@@ -1,2 +1,5 @@
-Hello world!
-Another change
+Hello world! Another change
+
+The change number 3
+
+This change is also for 3rd commit
