@@ -1,11 +1,13 @@
-function(x) {
+function f1(x) {
 	return x*x*x;
 }
 
-function(y) {
-	return y +y^2;
-}
-
-function(z) {
+function f3(z) {
 	return e+e+q+1;
 }
+function f4() {
+	return z+x+c;
+}
+
+
+
